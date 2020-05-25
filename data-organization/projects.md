@@ -14,6 +14,19 @@ Please note the ⋮ ("three dots") icon in the bottom right corner of a project.
 
 Wait, there is no "Create" button on this page. So how do I create one?
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Import Data
 
 Upload images or videos or other files from your computer at the "Import" page. You will be asked to provide a name for a Project — and after successful import, you will have one.
